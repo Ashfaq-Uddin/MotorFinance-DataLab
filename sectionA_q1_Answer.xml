@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?mso-application progid="Excel.Sheet"?>
+<Workbook xmlns="urn:schemas-microsoft-com:office:spreadsheet"
+xmlns:o="urn:schemas-microsoft-com:office:office"
+xmlns:x="urn:schemas-microsoft-com:office:excel"
+xmlns:ss="urn:schemas-microsoft-com:office:spreadsheet"
+xmlns:html="http://www.w3.org/TR/REC-html40">
+<Worksheet ss:Name="Table1">
+	<Table>
+		<Column ss:Index="1" ss:AutoFitWidth="0" ss:Width="110"/>
+		<Row>
+			<Cell><Data ss:Type="String">upazila</Data></Cell>
+			<Cell><Data ss:Type="String">low_emi_ratio</Data></Cell>
+		</Row>
+
+		<Row>
+			<Cell><Data ss:Type="String">Muradnagar</Data></Cell>
+			<Cell><Data ss:Type="Number">0.625</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Sadar</Data></Cell>
+			<Cell><Data ss:Type="Number">0.571</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Rupsha</Data></Cell>
+			<Cell><Data ss:Type="Number">0.567</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Gafargaon</Data></Cell>
+			<Cell><Data ss:Type="Number">0.533</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Banaripara</Data></Cell>
+			<Cell><Data ss:Type="Number">0.500</Data></Cell>
+		</Row>	</Table>
+</Worksheet>
+</Workbook>
